@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Resume</title>
+		<title1>Mariia Kotylevska</title1>
+		<style>
+		</style>
+	</head>
+	<body>
+		<header>Mariia Kotylevska</header>
+
+		<main>
+Summary
+Energetic, motivated, hard working who is highly organized and dedicated.
+
+Skills
+Fast learning
+Excellent verbal communication
+Perform well in high-demand, fast-paced invironment
+Problem resolving
+
+Accomplishments
+Business Development:
+- Successfully grew business by providing excellent customer service.
+
+Leadership
+-Served as key contributing member to Leadership team.
+
+Experience
+Barcelona Wine Bar
+August 2015 to Current
+Washington, DC
+
+SPA manager/massage therapist
+May 2012 to July 2015
+Unwind Wellness Center - Washington, DC
+
+Insurance Agent
+March 2013 to April 2014
+Hazar Financial Services - Silver Spring, MD
+
+Education and Training
+Web Development
+General Assembly School - Washington, DC
+
+Massage Therapist Certification 2011
+Nothern Virginia School of Therapeutic Massage - Falls Church, VA
+
+Bachelor of Arts:Linguistic science 2009
+People's Ukrainian Academy
+
+		</main>
+
+		<footer>
+		</footer>
+	</body>
+</html>
